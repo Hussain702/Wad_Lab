@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:  #1a1a2e;
+    color: white;
+    text-align:  left;
+}
+nav {
+    background-color: #16213e;
+    padding: 10px;
+}
+nav a {
+    color: #00FF7F;
+    margin:0 15px;
+    
+}
+
+h2,h1 {
+    color: #32CD32;
+}
+section
+{
+    margin: 20px 40px;
+}
+
+
+img:hover{
+    border-radius: 10px;
+    border:2px solid #32CD32;
+}
+
+button {
+   
+    padding: 10px 20px;
+    background-color: #FF4D6D;
+    color: white;
+    cursor: pointer;
+    
+    
+}
+footer {
+   
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #16213e;
+    text-align: center;
+}
+footer p,footer a{
+    color: white;
+}
+.container a {
+
+    font-weight: bold;
+    color: #00FF7F; 
+    margin: 10px; 
+}
+.linkedin-icon {
+    
+    margin: 10px;
+}
